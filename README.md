@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Danielasgs ;
 - 👀 I’m interested in development Web full stack ;
 - 🌱 I’m currently learning JS ;
-- 📫 How to reach me: E-mail - danielasgs08@gmail.com ; Discord - KogaHana;
+- 📫 How to reach me: E-mail - danielasgs08@gmail.com ; Discord - KogaHana#3677;
     
 
 <!---
