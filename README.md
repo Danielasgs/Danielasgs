@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danielasgs ;
 - 👀 I’m interested in development Web full stack ;
-- 🌱 I’m currently learning JS ;
+- 🌱 I’m currently learning JS and Py;
 - 📫 How to reach me: E-mail - danielasgs08@gmail.com ; Discord - KogaHana#3677;
     
 
